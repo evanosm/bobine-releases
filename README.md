@@ -1,57 +1,172 @@
 <div align="center">
 
-<img src=".github/logo.svg" width="96" alt="Logo de Bobine">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset=".github/page/banner-dark.svg">
+  <img src=".github/page/banner-light.svg" width="100%" alt="Logo de Bobine sur une pellicule qui défile">
+</picture>
 
 # Bobine
 
-**Un éditeur vidéo qui tourne sur ton ordinateur.**
+**Le montage vidéo qui tourne sur ton ordinateur.**
 
-Montage, export et transcription gratuits en local, sans compte.<br>
-L'agent IA se paie au quota, et un quota vide ne bloque jamais ton montage.
+Monter, sous-titrer et exporter : gratuit, en local, sans compte.<br>
+L'agent prépare les coupes à ta place, et rien ne change sans ton accord.
 
-[![Dernière version](https://img.shields.io/github/v/release/evanosm/bobine-releases?style=flat-square&label=version&color=FF2E48)](https://github.com/evanosm/bobine-releases/releases/latest)
-[![Téléchargements](https://img.shields.io/github/downloads/evanosm/bobine-releases/total?style=flat-square&label=t%C3%A9l%C3%A9chargements&color=1f1f1f)](https://github.com/evanosm/bobine-releases/releases)
-![macOS, Windows, Linux](https://img.shields.io/badge/macOS%20%C2%B7%20Windows%20%C2%B7%20Linux-1f1f1f?style=flat-square)
-
-### [Télécharger la dernière version →](https://github.com/evanosm/bobine-releases/releases/latest)
+[![Version](https://img.shields.io/github/v/release/evanosm/bobine-releases?style=flat-square&label=version&color=FF2E48)](https://github.com/evanosm/bobine-releases/releases/latest)
+[![Téléchargements](https://img.shields.io/github/downloads/evanosm/bobine-releases/total?style=flat-square&label=t%C3%A9l%C3%A9chargements&color=1f1b1a)](https://github.com/evanosm/bobine-releases/releases)
+[![Publiée le](https://img.shields.io/badge/publi%C3%A9e%20le-19%20novembre%202026-1f1b1a?style=flat-square)](https://github.com/evanosm/bobine-releases/releases/tag/v0.1.0)
 
 </div>
 
 <br>
 
-## Installer
+## Télécharger la 0.1.0
 
-| Système | Fichier à prendre | Version minimale |
-| :-- | :-- | :-- |
-| **macOS** (Apple Silicon) | `Bobine_<version>_aarch64.dmg` | macOS 12 |
-| **Windows** (64 bits) | `Bobine_<version>_x64-setup.exe` | Windows 10 |
-| **Linux** (x86_64) | `Bobine_<version>_amd64.AppImage` ou `.deb` | |
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+<br>
+<img src=".github/page/os/macos.svg" height="40" alt=""><br>
+<h3>macOS</h3>
+<sub>Mac avec puce Apple<br>macOS 12 ou plus récent</sub><br><br>
+<a href="https://github.com/evanosm/bobine-releases/releases/download/v0.1.0/Bobine_0.1.0_aarch64.dmg"><img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger-.dmg%20%C2%B7%2029%2C8%20Mo-FF2E48?style=for-the-badge" alt="Télécharger Bobine_0.1.0_aarch64.dmg"></a>
+<br><br>
+</td>
+<td width="33%" align="center" valign="top">
+<br>
+<img src=".github/page/os/windows.svg" height="40" alt=""><br>
+<h3>Windows</h3>
+<sub>Windows 10 ou 11<br>64 bits</sub><br><br>
+<a href="https://github.com/evanosm/bobine-releases/releases/download/v0.1.0/Bobine_0.1.0_x64-setup.exe"><img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger-.exe%20%C2%B7%2068%2C9%20Mo-FF2E48?style=for-the-badge" alt="Télécharger Bobine_0.1.0_x64-setup.exe"></a>
+<br><br>
+</td>
+<td width="33%" align="center" valign="top">
+<br>
+<img src=".github/page/os/linux.svg" height="40" alt=""><br>
+<h3>Linux</h3>
+<sub>x86_64<br>pas encore testé en conditions réelles</sub><br><br>
+<a href="https://github.com/evanosm/bobine-releases/releases/download/v0.1.0/Bobine_0.1.0_amd64.AppImage"><img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger-.AppImage%20%C2%B7%20166%2C4%20Mo-FF2E48?style=for-the-badge" alt="Télécharger Bobine_0.1.0_amd64.AppImage"></a><br>
+<a href="https://github.com/evanosm/bobine-releases/releases/download/v0.1.0/Bobine_0.1.0_amd64.deb"><img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger-.deb%20%C2%B7%2021%2C5%20Mo-FF2E48?style=for-the-badge" alt="Télécharger Bobine_0.1.0_amd64.deb"></a>
+<br><br>
+</td>
+</tr>
+</table>
 
-Une fois installée, Bobine se met à jour toute seule : elle vérifie les nouvelles versions au
-lancement et te propose de redémarrer. Chaque mise à jour est signée, et l'app refuse un fichier
-dont la signature ne correspond pas.
+<p align="center"><sub>
+<a href="https://github.com/evanosm/bobine-releases/releases/tag/v0.1.0">Notes de la 0.1.0</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/evanosm/bobine-releases/releases">Toutes les versions</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/evanosm/bobine-releases/releases/tag/beta-channel">Canal bêta</a>
+</sub></p>
+
+### Fichiers par système
+
+<details>
+<summary><b>macOS</b>, puce Apple</summary>
+<br>
+
+| Fichier | Taille | Usage |
+| :-- | --: | :-- |
+| [`Bobine_0.1.0_aarch64.dmg`](https://github.com/evanosm/bobine-releases/releases/download/v0.1.0/Bobine_0.1.0_aarch64.dmg) | 29,8 Mo | Installeur |
+| [`Bobine_aarch64.app.tar.gz`](https://github.com/evanosm/bobine-releases/releases/download/v0.1.0/Bobine_aarch64.app.tar.gz) | 30,5 Mo | Mise à jour automatique (inutile à la main) |
+
+**Installer.** Ouvre le `.dmg` et glisse Bobine dans le dossier Applications.
+
+**Premier lancement.** Si macOS refuse d'ouvrir une app venue d'Internet, fais un clic droit sur
+Bobine, choisis « Ouvrir », puis confirme avec « Ouvrir ».
+
+</details>
+
+<details>
+<summary><b>Windows</b>, 64 bits</summary>
+<br>
+
+| Fichier | Taille | Usage |
+| :-- | --: | :-- |
+| [`Bobine_0.1.0_x64-setup.exe`](https://github.com/evanosm/bobine-releases/releases/download/v0.1.0/Bobine_0.1.0_x64-setup.exe) | 68,9 Mo | Installeur |
+
+**Installer.** Lance le `.exe` et suis l'installation. Pas besoin des droits administrateur.
+
+**Premier lancement.** Si Windows affiche « Windows a protégé votre ordinateur », clique sur
+« Informations complémentaires », puis sur « Exécuter quand même ».
+
+</details>
+
+<details>
+<summary><b>Linux</b>, x86_64</summary>
+<br>
+
+| Fichier | Taille | Usage |
+| :-- | --: | :-- |
+| [`Bobine_0.1.0_amd64.AppImage`](https://github.com/evanosm/bobine-releases/releases/download/v0.1.0/Bobine_0.1.0_amd64.AppImage) | 166,4 Mo | Toutes distributions, sans installation |
+| [`Bobine_0.1.0_amd64.deb`](https://github.com/evanosm/bobine-releases/releases/download/v0.1.0/Bobine_0.1.0_amd64.deb) | 21,5 Mo | Debian, Ubuntu et dérivées |
+
+**AppImage.** Rends le fichier exécutable, puis lance-le :
+
+```sh
+chmod +x Bobine_0.1.0_amd64.AppImage
+./Bobine_0.1.0_amd64.AppImage
+```
+
+**Debian, Ubuntu.** Installe le paquet avec ses dépendances :
+
+```sh
+sudo apt install ./Bobine_0.1.0_amd64.deb
+```
+
+</details>
+
+<sub>Les fichiers `.sig` et `latest.json` servent aux mises à jour automatiques : inutile de les télécharger.</sub>
+
+## Nouveautés de la 0.1.0
+
+**Première version en accès anticipé**
+
+Un éditeur complet qui tourne sur ton ordinateur, et un agent qui prépare les coupes à ta place.
+
+- **Montage.** Pistes vidéo et audio, coupes, transitions, vitesse et ralentis.
+- **Sous-titres.** Transcription de tes rushes sur ton ordinateur, sous-titres à mots animés et recherche d'une phrase dans tous tes rushes.
+- **Silences.** Les blancs sont repérés et montrés avant d'être coupés. Tu valides, ou pas.
+- **Agent.** Tu écris ce que tu veux, l'agent prépare le montage et rien ne change sans ton accord.
+- **Export.** Préréglages prêts pour les plateformes, volume homogène d'une vidéo à l'autre.
 
 ## Ce que fait Bobine
 
-- **Monter vite.** Timeline multi-pistes, coupes au clavier, transitions, vitesse, fondus, keyframes.
-- **Travailler à partir du texte.** Transcription locale (Whisper), recherche dans ce qui est dit,
-  suppression des silences en un geste.
-- **Sous-titrer.** Sous-titres générés depuis la transcription, styles animés mot à mot,
-  export SRT, VTT et ASS.
-- **Soigner l'image et le son.** Effets, correction colorimétrique, LUT, réduction de bruit,
-  égaliseur, table de mixage, normalisation du volume à l'export.
-- **Demander à l'agent.** Décris ce que tu veux, il prépare les modifications et te les montre :
-  tu appliques ou tu annules. Tout reste annulable.
-- **Brancher ta propre IA.** Un serveur MCP local permet à Claude Desktop ou à un autre client
-  de piloter ton montage.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Ta vidéo ne quitte pas ta machine : lecture, rendu, transcription et export tournent en local.
+**Monter vite.** Pistes vidéo et audio, coupes au clavier, transitions, ralentis, fondus et
+animations.
 
-## Canal bêta
+**Partir de ce qui est dit.** Tes rushes sont transcrits sur ton ordinateur. Cherche une phrase,
+coupe les blancs en un geste.
 
-Les testeurs qui veulent les nouveautés avant tout le monde peuvent activer le canal bêta dans
-les réglages de l'app. Les versions bêta sont publiées sous
-[`beta-channel`](https://github.com/evanosm/bobine-releases/releases/tag/beta-channel).
+**Sous-titrer.** Des sous-titres générés depuis la transcription, avec des mots qui s'allument au
+rythme de la voix.
+
+</td>
+<td width="50%" valign="top">
+
+**Soigner l'image et le son.** Effets, couleurs, réduction du bruit, égaliseur, table de mixage
+et volume égal d'une vidéo à l'autre.
+
+**Demander à l'agent.** Écris ce que tu veux : l'agent prépare le montage et te le montre. Tu
+appliques ou tu annules.
+
+**Garder tes vidéos chez toi.** Lecture, rendu, transcription et export tournent sur ta machine.
+
+</td>
+</tr>
+</table>
+
+## Mises à jour
+
+Bobine vérifie les nouvelles versions au lancement et te propose de redémarrer. Chaque mise à
+jour est signée : l'app refuse un fichier dont la signature ne correspond pas.
+
+Pour recevoir les nouveautés avant tout le monde, coche **Fichier › Recevoir les versions bêta** dans l'app.
 
 ## Un problème, une idée ?
 
@@ -63,5 +178,6 @@ Sinon, ouvre une [issue](https://github.com/evanosm/bobine-releases/issues/new?l
 <br>
 
 <div align="center">
-<sub>Ce dépôt ne contient que les versions publiées (binaires signés et <code>latest.json</code>, lu par les mises à jour automatiques). Le code source est privé.</sub>
+<sub>Ce dépôt ne contient que les versions publiées (binaires signés et <code>latest.json</code>). Le code source est privé.<br>Page mise à jour automatiquement à chaque version.</sub>
 </div>
+
