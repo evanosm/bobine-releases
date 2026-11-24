@@ -14,13 +14,13 @@ L'agent prépare les coupes à ta place, et rien ne change sans ton accord.
 
 [![Version](https://img.shields.io/github/v/release/evanosm/bobine-releases?style=flat-square&label=version&color=FF2E48)](https://github.com/evanosm/bobine-releases/releases/latest)
 [![Téléchargements](https://img.shields.io/github/downloads/evanosm/bobine-releases/total?style=flat-square&label=t%C3%A9l%C3%A9chargements&color=1f1b1a)](https://github.com/evanosm/bobine-releases/releases)
-[![Publiée le](https://img.shields.io/badge/publi%C3%A9e%20le-23%20novembre%202026-1f1b1a?style=flat-square)](https://github.com/evanosm/bobine-releases/releases/tag/v0.2.1)
+[![Publiée le](https://img.shields.io/badge/publi%C3%A9e%20le-24%20novembre%202026-1f1b1a?style=flat-square)](https://github.com/evanosm/bobine-releases/releases/tag/v0.2.3)
 
 </div>
 
 <br>
 
-## Télécharger la 0.2.1
+## Télécharger la 0.2.3
 
 <table>
 <tr>
@@ -29,7 +29,7 @@ L'agent prépare les coupes à ta place, et rien ne change sans ton accord.
 <img src=".github/page/os/macos.svg" height="40" alt=""><br>
 <h3>macOS</h3>
 <sub>Mac avec puce Apple<br>macOS 12 ou plus récent</sub><br><br>
-<a href="https://github.com/evanosm/bobine-releases/releases/download/v0.2.1/Bobine_0.2.1_aarch64.dmg"><img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger-.dmg%20%C2%B7%2044%2C3%20Mo-FF2E48?style=for-the-badge" alt="Télécharger Bobine_0.2.1_aarch64.dmg"></a>
+<a href="https://github.com/evanosm/bobine-releases/releases/download/v0.2.3/Bobine_0.2.3_aarch64.dmg"><img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger-.dmg%20%C2%B7%2044%2C3%20Mo-FF2E48?style=for-the-badge" alt="Télécharger Bobine_0.2.3_aarch64.dmg"></a>
 <br><br>
 </td>
 <td width="33%" align="center" valign="top">
@@ -37,7 +37,7 @@ L'agent prépare les coupes à ta place, et rien ne change sans ton accord.
 <img src=".github/page/os/windows.svg" height="40" alt=""><br>
 <h3>Windows</h3>
 <sub>Windows 10 ou 11<br>64 bits</sub><br><br>
-<a href="https://github.com/evanosm/bobine-releases/releases/download/v0.2.1/Bobine_0.2.1_x64-setup.exe"><img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger-.exe%20%C2%B7%2080%2C2%20Mo-FF2E48?style=for-the-badge" alt="Télécharger Bobine_0.2.1_x64-setup.exe"></a>
+<a href="https://github.com/evanosm/bobine-releases/releases/download/v0.2.3/Bobine_0.2.3_x64-setup.exe"><img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger-.exe%20%C2%B7%2080%2C1%20Mo-FF2E48?style=for-the-badge" alt="Télécharger Bobine_0.2.3_x64-setup.exe"></a>
 <br><br>
 </td>
 <td width="33%" align="center" valign="top">
@@ -45,15 +45,15 @@ L'agent prépare les coupes à ta place, et rien ne change sans ton accord.
 <img src=".github/page/os/linux.svg" height="40" alt=""><br>
 <h3>Linux</h3>
 <sub>x86_64<br>pas encore testé en conditions réelles</sub><br><br>
-<a href="https://github.com/evanosm/bobine-releases/releases/download/v0.2.1/Bobine_0.2.1_amd64.AppImage"><img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger-.AppImage%20%C2%B7%20176%2C5%20Mo-FF2E48?style=for-the-badge" alt="Télécharger Bobine_0.2.1_amd64.AppImage"></a><br>
-<a href="https://github.com/evanosm/bobine-releases/releases/download/v0.2.1/Bobine_0.2.1_amd64.deb"><img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger-.deb%20%C2%B7%2035%2C4%20Mo-FF2E48?style=for-the-badge" alt="Télécharger Bobine_0.2.1_amd64.deb"></a>
+<a href="https://github.com/evanosm/bobine-releases/releases/download/v0.2.3/Bobine_0.2.3_amd64.AppImage"><img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger-.AppImage%20%C2%B7%20179%2C1%20Mo-FF2E48?style=for-the-badge" alt="Télécharger Bobine_0.2.3_amd64.AppImage"></a><br>
+<a href="https://github.com/evanosm/bobine-releases/releases/download/v0.2.3/Bobine_0.2.3_amd64.deb"><img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger-.deb%20%C2%B7%20109%2C4%20Mo-FF2E48?style=for-the-badge" alt="Télécharger Bobine_0.2.3_amd64.deb"></a>
 <br><br>
 </td>
 </tr>
 </table>
 
 <p align="center"><sub>
-<a href="https://github.com/evanosm/bobine-releases/releases/tag/v0.2.1">Notes de la 0.2.1</a>
+<a href="https://github.com/evanosm/bobine-releases/releases/tag/v0.2.3">Notes de la 0.2.3</a>
 &nbsp;·&nbsp;
 <a href="https://github.com/evanosm/bobine-releases/releases">Toutes les versions</a>
 &nbsp;·&nbsp;
@@ -68,8 +68,8 @@ L'agent prépare les coupes à ta place, et rien ne change sans ton accord.
 
 | Fichier | Taille | Usage |
 | :-- | --: | :-- |
-| [`Bobine_0.2.1_aarch64.app.tar.gz`](https://github.com/evanosm/bobine-releases/releases/download/v0.2.1/Bobine_0.2.1_aarch64.app.tar.gz) | 44,4 Mo | Mise à jour automatique (inutile à la main) |
-| [`Bobine_0.2.1_aarch64.dmg`](https://github.com/evanosm/bobine-releases/releases/download/v0.2.1/Bobine_0.2.1_aarch64.dmg) | 44,3 Mo | Installeur |
+| [`Bobine_0.2.3_aarch64.app.tar.gz`](https://github.com/evanosm/bobine-releases/releases/download/v0.2.3/Bobine_0.2.3_aarch64.app.tar.gz) | 44,4 Mo | Mise à jour automatique (inutile à la main) |
+| [`Bobine_0.2.3_aarch64.dmg`](https://github.com/evanosm/bobine-releases/releases/download/v0.2.3/Bobine_0.2.3_aarch64.dmg) | 44,3 Mo | Installeur |
 
 **Installer.** Ouvre le `.dmg` et glisse Bobine dans le dossier Applications.
 
@@ -84,7 +84,7 @@ Bobine, choisis « Ouvrir », puis confirme avec « Ouvrir ».
 
 | Fichier | Taille | Usage |
 | :-- | --: | :-- |
-| [`Bobine_0.2.1_x64-setup.exe`](https://github.com/evanosm/bobine-releases/releases/download/v0.2.1/Bobine_0.2.1_x64-setup.exe) | 80,2 Mo | Installeur |
+| [`Bobine_0.2.3_x64-setup.exe`](https://github.com/evanosm/bobine-releases/releases/download/v0.2.3/Bobine_0.2.3_x64-setup.exe) | 80,1 Mo | Installeur |
 
 **Installer.** Lance le `.exe` et suis l'installation. Pas besoin des droits administrateur.
 
@@ -99,40 +99,33 @@ Bobine, choisis « Ouvrir », puis confirme avec « Ouvrir ».
 
 | Fichier | Taille | Usage |
 | :-- | --: | :-- |
-| [`Bobine_0.2.1_amd64.AppImage`](https://github.com/evanosm/bobine-releases/releases/download/v0.2.1/Bobine_0.2.1_amd64.AppImage) | 176,5 Mo | Toutes distributions, sans installation |
-| [`Bobine_0.2.1_amd64.deb`](https://github.com/evanosm/bobine-releases/releases/download/v0.2.1/Bobine_0.2.1_amd64.deb) | 35,4 Mo | Debian, Ubuntu et dérivées |
+| [`Bobine_0.2.3_amd64.AppImage`](https://github.com/evanosm/bobine-releases/releases/download/v0.2.3/Bobine_0.2.3_amd64.AppImage) | 179,1 Mo | Toutes distributions, sans installation |
+| [`Bobine_0.2.3_amd64.deb`](https://github.com/evanosm/bobine-releases/releases/download/v0.2.3/Bobine_0.2.3_amd64.deb) | 109,4 Mo | Debian, Ubuntu et dérivées |
 
 **AppImage.** Rends le fichier exécutable, puis lance-le :
 
 ```sh
-chmod +x Bobine_0.2.1_amd64.AppImage
-./Bobine_0.2.1_amd64.AppImage
+chmod +x Bobine_0.2.3_amd64.AppImage
+./Bobine_0.2.3_amd64.AppImage
 ```
 
 **Debian, Ubuntu.** Installe le paquet avec ses dépendances :
 
 ```sh
-sudo apt install ./Bobine_0.2.1_amd64.deb
+sudo apt install ./Bobine_0.2.3_amd64.deb
 ```
 
 </details>
 
 <sub>Les fichiers `.sig` et `latest.json` servent aux mises à jour automatiques : inutile de les télécharger.</sub>
 
-## Nouveautés de la 0.2.1
+## Nouveautés de la 0.2.3
 
-**Ton compte et l'agent pour tout le monde**
+**Bobine s'ouvre de nouveau sur Linux**
 
-Un compte pour suivre ton usage, sept jours de Pro offerts pour essayer l'agent, et ton abonnement géré sans écrire à personne.
+Sur Linux, le paquet .deb ne se lançait pas : il lui manquait des fichiers. Ils sont maintenant inclus.
 
-- **Compte.** Connexion par lien e-mail, sans mot de passe. Ton offre et tes demandes du mois se suivent depuis l'app.
-- **Essai.** Sept jours de Pro offerts à l'ouverture du compte : 30 demandes à l'agent et 1 h de rushs à monter.
-- **Agent.** Une alerte te prévient quand il te reste peu de demandes, avant que l'agent ne s'arrête.
-- **Abonnement.** Pause de 1 à 3 mois, changement d'offre et résiliation directement depuis ton compte.
-- **Parrainage.** Invite un ami : quand il s'abonne, vous recevez chacun 50 demandes.
-- **Montage.** Glisse la tête de lecture vers un bord : la piste défile toute seule. Clique dans un espace vide entre deux clips, puis Suppr : le trou se referme.
-- **Accueil.** Bobine te souhaite un bon retour et te propose de reprendre ton dernier montage en un clic.
-- **Sécurité.** Un projet ou un fichier reçu de quelqu'un d'autre s'ouvre avec plus de précautions, et ton compte est mieux protégé.
+- **Linux.** Bobine se lance après l'installation du paquet .deb, sans rien installer d'autre. La commande pour l'ouvrir s'appelle maintenant bobine.
 
 ## Ce que fait Bobine
 
