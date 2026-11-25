@@ -14,13 +14,13 @@ L'agent prépare les coupes à ta place, et rien ne change sans ton accord.
 
 [![Version](https://img.shields.io/github/v/release/evanosm/bobine-releases?style=flat-square&label=version&color=FF2E48)](https://github.com/evanosm/bobine-releases/releases/latest)
 [![Téléchargements](https://img.shields.io/github/downloads/evanosm/bobine-releases/total?style=flat-square&label=t%C3%A9l%C3%A9chargements&color=1f1b1a)](https://github.com/evanosm/bobine-releases/releases)
-[![Publiée le](https://img.shields.io/badge/publi%C3%A9e%20le-25%20novembre%202026-1f1b1a?style=flat-square)](https://github.com/evanosm/bobine-releases/releases/tag/v0.3.3)
+[![Publiée le](https://img.shields.io/badge/publi%C3%A9e%20le-25%20novembre%202026-1f1b1a?style=flat-square)](https://github.com/evanosm/bobine-releases/releases/tag/v0.3.4)
 
 </div>
 
 <br>
 
-## Télécharger la 0.3.3
+## Télécharger la 0.3.4
 
 <table>
 <tr>
@@ -29,7 +29,7 @@ L'agent prépare les coupes à ta place, et rien ne change sans ton accord.
 <img src=".github/page/os/macos.svg" height="40" alt=""><br>
 <h3>macOS</h3>
 <sub>Mac avec puce Apple<br>macOS 12 ou plus récent</sub><br><br>
-<a href="https://github.com/evanosm/bobine-releases/releases/download/v0.3.3/Bobine_0.3.3_aarch64.dmg"><img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger-.dmg%20%C2%B7%2043%2C7%20Mo-FF2E48?style=for-the-badge" alt="Télécharger Bobine_0.3.3_aarch64.dmg"></a>
+<a href="https://github.com/evanosm/bobine-releases/releases/download/v0.3.4/Bobine_0.3.4_aarch64.dmg"><img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger-.dmg%20%C2%B7%2043%2C9%20Mo-FF2E48?style=for-the-badge" alt="Télécharger Bobine_0.3.4_aarch64.dmg"></a>
 <br><br>
 </td>
 <td width="33%" align="center" valign="top">
@@ -37,7 +37,7 @@ L'agent prépare les coupes à ta place, et rien ne change sans ton accord.
 <img src=".github/page/os/windows.svg" height="40" alt=""><br>
 <h3>Windows</h3>
 <sub>Windows 10 ou 11<br>64 bits</sub><br><br>
-<a href="https://github.com/evanosm/bobine-releases/releases/download/v0.3.3/Bobine_0.3.3_x64-setup.exe"><img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger-.exe%20%C2%B7%2079%2C2%20Mo-FF2E48?style=for-the-badge" alt="Télécharger Bobine_0.3.3_x64-setup.exe"></a>
+<a href="https://github.com/evanosm/bobine-releases/releases/download/v0.3.4/Bobine_0.3.4_x64-setup.exe"><img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger-.exe%20%C2%B7%2079%2C6%20Mo-FF2E48?style=for-the-badge" alt="Télécharger Bobine_0.3.4_x64-setup.exe"></a>
 <br><br>
 </td>
 <td width="33%" align="center" valign="top">
@@ -45,15 +45,15 @@ L'agent prépare les coupes à ta place, et rien ne change sans ton accord.
 <img src=".github/page/os/linux.svg" height="40" alt=""><br>
 <h3>Linux</h3>
 <sub>x86_64<br>pas encore testé en conditions réelles</sub><br><br>
-<a href="https://github.com/evanosm/bobine-releases/releases/download/v0.3.3/Bobine_0.3.3_amd64.AppImage"><img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger-.AppImage%20%C2%B7%20179%20Mo-FF2E48?style=for-the-badge" alt="Télécharger Bobine_0.3.3_amd64.AppImage"></a><br>
-<a href="https://github.com/evanosm/bobine-releases/releases/download/v0.3.3/Bobine_0.3.3_amd64.deb"><img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger-.deb%20%C2%B7%20109%2C4%20Mo-FF2E48?style=for-the-badge" alt="Télécharger Bobine_0.3.3_amd64.deb"></a>
+<a href="https://github.com/evanosm/bobine-releases/releases/download/v0.3.4/Bobine_0.3.4_amd64.AppImage"><img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger-.AppImage%20%C2%B7%20179%2C3%20Mo-FF2E48?style=for-the-badge" alt="Télécharger Bobine_0.3.4_amd64.AppImage"></a><br>
+<a href="https://github.com/evanosm/bobine-releases/releases/download/v0.3.4/Bobine_0.3.4_amd64.deb"><img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger-.deb%20%C2%B7%20109%2C6%20Mo-FF2E48?style=for-the-badge" alt="Télécharger Bobine_0.3.4_amd64.deb"></a>
 <br><br>
 </td>
 </tr>
 </table>
 
 <p align="center"><sub>
-<a href="https://github.com/evanosm/bobine-releases/releases/tag/v0.3.3">Notes de la 0.3.3</a>
+<a href="https://github.com/evanosm/bobine-releases/releases/tag/v0.3.4">Notes de la 0.3.4</a>
 &nbsp;·&nbsp;
 <a href="https://github.com/evanosm/bobine-releases/releases">Toutes les versions</a>
 &nbsp;·&nbsp;
@@ -68,8 +68,8 @@ L'agent prépare les coupes à ta place, et rien ne change sans ton accord.
 
 | Fichier | Taille | Usage |
 | :-- | --: | :-- |
-| [`Bobine_0.3.3_aarch64.app.tar.gz`](https://github.com/evanosm/bobine-releases/releases/download/v0.3.3/Bobine_0.3.3_aarch64.app.tar.gz) | 43,8 Mo | Mise à jour automatique (inutile à la main) |
-| [`Bobine_0.3.3_aarch64.dmg`](https://github.com/evanosm/bobine-releases/releases/download/v0.3.3/Bobine_0.3.3_aarch64.dmg) | 43,7 Mo | Installeur |
+| [`Bobine_0.3.4_aarch64.app.tar.gz`](https://github.com/evanosm/bobine-releases/releases/download/v0.3.4/Bobine_0.3.4_aarch64.app.tar.gz) | 44 Mo | Mise à jour automatique (inutile à la main) |
+| [`Bobine_0.3.4_aarch64.dmg`](https://github.com/evanosm/bobine-releases/releases/download/v0.3.4/Bobine_0.3.4_aarch64.dmg) | 43,9 Mo | Installeur |
 
 **Installer.** Ouvre le `.dmg` et glisse Bobine dans le dossier Applications.
 
@@ -84,7 +84,7 @@ Bobine, choisis « Ouvrir », puis confirme avec « Ouvrir ».
 
 | Fichier | Taille | Usage |
 | :-- | --: | :-- |
-| [`Bobine_0.3.3_x64-setup.exe`](https://github.com/evanosm/bobine-releases/releases/download/v0.3.3/Bobine_0.3.3_x64-setup.exe) | 79,2 Mo | Installeur |
+| [`Bobine_0.3.4_x64-setup.exe`](https://github.com/evanosm/bobine-releases/releases/download/v0.3.4/Bobine_0.3.4_x64-setup.exe) | 79,6 Mo | Installeur |
 
 **Installer.** Lance le `.exe` et suis l'installation. Pas besoin des droits administrateur.
 
@@ -99,40 +99,36 @@ Bobine, choisis « Ouvrir », puis confirme avec « Ouvrir ».
 
 | Fichier | Taille | Usage |
 | :-- | --: | :-- |
-| [`Bobine_0.3.3_amd64.AppImage`](https://github.com/evanosm/bobine-releases/releases/download/v0.3.3/Bobine_0.3.3_amd64.AppImage) | 179 Mo | Toutes distributions, sans installation |
-| [`Bobine_0.3.3_amd64.deb`](https://github.com/evanosm/bobine-releases/releases/download/v0.3.3/Bobine_0.3.3_amd64.deb) | 109,4 Mo | Debian, Ubuntu et dérivées |
+| [`Bobine_0.3.4_amd64.AppImage`](https://github.com/evanosm/bobine-releases/releases/download/v0.3.4/Bobine_0.3.4_amd64.AppImage) | 179,3 Mo | Toutes distributions, sans installation |
+| [`Bobine_0.3.4_amd64.deb`](https://github.com/evanosm/bobine-releases/releases/download/v0.3.4/Bobine_0.3.4_amd64.deb) | 109,6 Mo | Debian, Ubuntu et dérivées |
 
 **AppImage.** Rends le fichier exécutable, puis lance-le :
 
 ```sh
-chmod +x Bobine_0.3.3_amd64.AppImage
-./Bobine_0.3.3_amd64.AppImage
+chmod +x Bobine_0.3.4_amd64.AppImage
+./Bobine_0.3.4_amd64.AppImage
 ```
 
 **Debian, Ubuntu.** Installe le paquet avec ses dépendances :
 
 ```sh
-sudo apt install ./Bobine_0.3.3_amd64.deb
+sudo apt install ./Bobine_0.3.4_amd64.deb
 ```
 
 </details>
 
 <sub>Les fichiers `.sig` et `latest.json` servent aux mises à jour automatiques : inutile de les télécharger.</sub>
 
-## Nouveautés de la 0.3.3
+## Nouveautés de la 0.3.4
 
-**Viewer sur un second écran, transitions sans recoupe**
+**Un son qui répond tout de suite, une musique qui s'efface sous ta voix**
 
-Le viewer se détache sur un autre écran, une transition se pose entre deux clips entiers, et l'export tourne pendant que tu continues à monter.
+Ce que tu changes s'entend presque aussitôt pendant la lecture, la musique baisse d'elle-même quand tu parles, et un menu Plugins fait son apparition.
 
-- **Viewer.** Détache le viewer dans sa propre fenêtre pour le poser sur un autre écran (menu Fenêtre). Double-clic pour le plein écran. Ferme la fenêtre ou clique sur « Rattacher » pour le remettre à sa place, sans arrêter la lecture.
-- **Transitions.** Plus besoin de recouper tes clips avant de poser une transition : elle prend ses secondes dans la fin du premier clip et le début du second, et la suite se resserre d'autant.
-- **Export.** Une file d'attente remplace le choix de plusieurs formats. L'export tourne en arrière-plan : tu reviens au montage, sa progression reste visible en haut de la fenêtre, et chaque export garde le montage tel qu'il était quand tu l'as lancé.
-- **Prises ratées.** Quand tu recommences une phrase, Bobine repère la prise ratée dans la transcription et la coupe avec les silences, au clic ou à la demande de l'agent.
-- **Musique.** L'agent peut baisser la musique sous ta voix. La musique ne remonte plus quand tu parles encore un peu après la fin du clip.
-- **Titres animés.** Onze titres animés dans le panneau Texte, avec un aperçu au survol. Un clic les pose déjà animés : il ne reste qu'à changer le texte.
-- **Notifications.** Si tu travailles dans une autre app, Bobine te prévient quand un export, une transcription ou une proposition de l'agent est prêt.
-- **Montage.** Espace lance ou arrête la lecture où que tu sois dans l'app, sauf quand tu écris. Maintiens le clic de la molette pour faire glisser la timeline. Les rushs déposés sur l'accueil se posent dans l'ordre du tournage, la transcription laisse de la puissance libre pour continuer à monter, et Cmd + molette zoome dans la timeline sur Mac.
+- **Son.** Une modification pendant la lecture (volume, coupe, déplacement, muet) s'entend en moins d'un dixième de seconde, au lieu d'une demi-seconde ou plus. Les curseurs de volume se font entendre pendant que tu les glisses.
+- **Musique sous la voix.** Marque ta piste de voix « Voix » et active « Baisser sous la voix » sur ta musique, depuis le menu de chaque piste : la musique baisse dès que tu parles et remonte dans les blancs, à la lecture comme à l'export. Tu règles la baisse, sa vitesse et celle de la remontée. Rien n'est figé : si tu déplaces ou coupes tes clips, la musique suit.
+- **Plugins.** Nouveau menu Plugins : installe des thèmes de couleur et des skills (des consignes en plus pour l'agent, qui s'ajoutent à ses règles sans les remplacer) depuis un fichier. La marketplace arrive ensuite.
+- **Titres animés.** Les vignettes montrent le titre dès qu'elles apparaissent, lisibles en thème clair comme en sombre.
 
 ## Ce que fait Bobine
 
